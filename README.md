@@ -10,4 +10,4 @@ after cloning:
 4. pip install -r requirements.txt
 (5. install pytorch depending on your cuda version and graphics card)
 6. jupyter notebook
-7. run all and check the outputted weight matrices
+7. run all and check the output loss and weight matrices for two separate runs
