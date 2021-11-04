@@ -11,3 +11,7 @@ after cloning:
 (5. install pytorch depending on your cuda version and graphics card)
 6. jupyter notebook
 7. run all and check the output loss and weight matrices for two separate runs
+
+contains code borrowed from:
+- https://github.com/nathanrgodwin/overfit-shapes
+- https://www.shadertoy.com/view/wtVyWK and https://youtu.be/8pwXpfi-0bU
